@@ -1,3 +1,5 @@
+Please find the paper titled "A Dataset for Analyzing Streaming Media Performance over HTTP/3 Browsers" published in NeurIPS 2023 [here]([https://github.com](https://proceedings.neurips.cc/paper_files/paper/2023/hash/f5da8ac52cf8857157c63c4803b6690b-Abstract-Datasets_and_Benchmarks.html))
+
 # H3B Dataset: HTTP/3 supported Browser Dataset
 
 <!-- TABLE OF CONTENTS -->
